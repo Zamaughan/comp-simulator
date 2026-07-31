@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.DrawInstructionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.780Z" hostname="APC" time="0.002">
+  <properties/>
+  <testcase name="throws when the byte to draw is greater than 0x7F()" classname="d5700.instructions.DrawInstructionTest" time="0.001"/>
+  <testcase name="draws the character in rX at the literal row and column()" classname="d5700.instructions.DrawInstructionTest" time="0.001"/>
+  <testcase name="row and column are literal nibble values, not register lookups()" classname="d5700.instructions.DrawInstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

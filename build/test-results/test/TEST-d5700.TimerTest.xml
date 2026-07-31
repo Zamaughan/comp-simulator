@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.TimerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.214Z" hostname="APC" time="0.557">
+  <properties/>
+  <testcase name="stop halts further decrementing()" classname="d5700.TimerTest" time="0.154"/>
+  <testcase name="does not decrement below 0()" classname="d5700.TimerTest" time="0.102"/>
+  <testcase name="decrements T towards 0 over real time()" classname="d5700.TimerTest" time="0.301"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

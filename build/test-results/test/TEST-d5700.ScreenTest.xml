@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.ScreenTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.207Z" hostname="APC" time="0.006">
+  <properties/>
+  <testcase name="cells default to blank()" classname="d5700.ScreenTest" time="0.0"/>
+  <testcase name="instance always returns the same object (singleton)()" classname="d5700.ScreenTest" time="0.0"/>
+  <testcase name="render produces one line per row()" classname="d5700.ScreenTest" time="0.0"/>
+  <testcase name="draw rejects a row outside the 8x8 grid()" classname="d5700.ScreenTest" time="0.0"/>
+  <testcase name="draw rejects a column outside the 8x8 grid()" classname="d5700.ScreenTest" time="0.001"/>
+  <testcase name="draw writes the ASCII character at the given cell()" classname="d5700.ScreenTest" time="0.001"/>
+  <testcase name="reset clears every cell back to blank()" classname="d5700.ScreenTest" time="0.0"/>
+  <testcase name="draw rejects a byte greater than 0x7F()" classname="d5700.ScreenTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

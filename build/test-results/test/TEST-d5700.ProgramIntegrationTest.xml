@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.ProgramIntegrationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.167Z" hostname="APC" time="0.03">
+  <properties/>
+  <testcase name="hello_from_rom rom draws HELLO by reading its data straight out of ROM()" classname="d5700.ProgramIntegrationTest" time="0.02"/>
+  <testcase name="subtraction rom subtracts two keyboard-entered digits and displays the result()" classname="d5700.ProgramIntegrationTest" time="0.006"/>
+  <testcase name="hello rom draws HELLO on the top row()" classname="d5700.ProgramIntegrationTest" time="0.001"/>
+  <testcase name="keyboard rom echoes a single keyboard-entered digit()" classname="d5700.ProgramIntegrationTest" time="0.001"/>
+  <testcase name="addition rom adds two keyboard-entered digits and displays the sum()" classname="d5700.ProgramIntegrationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

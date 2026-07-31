@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.AddInstructionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.771Z" hostname="APC" time="0.004">
+  <properties/>
+  <testcase name="wraps around on overflow past 255()" classname="d5700.instructions.AddInstructionTest" time="0.003"/>
+  <testcase name="can write the result back into one of the source registers()" classname="d5700.instructions.AddInstructionTest" time="0.001"/>
+  <testcase name="adds two registers into a third()" classname="d5700.instructions.AddInstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

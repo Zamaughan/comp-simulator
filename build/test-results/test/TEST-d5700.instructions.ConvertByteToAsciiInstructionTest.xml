@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.ConvertByteToAsciiInstructionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.776Z" hostname="APC" time="0.002">
+  <properties/>
+  <testcase name="throws when the source register holds more than a single hex digit()" classname="d5700.instructions.ConvertByteToAsciiInstructionTest" time="0.001"/>
+  <testcase name="converts a decimal digit to its ASCII code()" classname="d5700.instructions.ConvertByteToAsciiInstructionTest" time="0.001"/>
+  <testcase name="can write the result back into the same register()" classname="d5700.instructions.ConvertByteToAsciiInstructionTest" time="0.0"/>
+  <testcase name="converts a hex letter digit (A-F) to its ASCII code()" classname="d5700.instructions.ConvertByteToAsciiInstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

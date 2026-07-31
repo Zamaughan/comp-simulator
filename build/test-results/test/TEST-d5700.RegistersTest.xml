@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.RegistersTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.198Z" hostname="APC" time="0.008">
+  <properties/>
+  <testcase name="general purpose registers default to zero()" classname="d5700.RegistersTest" time="0.001"/>
+  <testcase name="general purpose registers wrap negative values as two's complement()" classname="d5700.RegistersTest" time="0.001"/>
+  <testcase name="general purpose registers wrap values larger than one byte()" classname="d5700.RegistersTest" time="0.0"/>
+  <testcase name="general purpose registers store and retrieve values()" classname="d5700.RegistersTest" time="0.0"/>
+  <testcase name="A register masks to 16 bits()" classname="d5700.RegistersTest" time="0.0"/>
+  <testcase name="invalid register index throws on write()" classname="d5700.RegistersTest" time="0.001"/>
+  <testcase name="M register defaults to false (RAM)()" classname="d5700.RegistersTest" time="0.0"/>
+  <testcase name="T register masks to a single byte()" classname="d5700.RegistersTest" time="0.0"/>
+  <testcase name="invalid register index throws on read()" classname="d5700.RegistersTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

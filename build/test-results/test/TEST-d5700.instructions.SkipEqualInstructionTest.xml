@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.SkipEqualInstructionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.798Z" hostname="APC" time="0.001">
+  <properties/>
+  <testcase name="advances by 4 (skipping the next instruction) when the registers are equal()" classname="d5700.instructions.SkipEqualInstructionTest" time="0.0"/>
+  <testcase name="advances by only 2 when the registers differ()" classname="d5700.instructions.SkipEqualInstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

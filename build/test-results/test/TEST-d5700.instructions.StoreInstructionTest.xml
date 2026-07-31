@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.StoreInstructionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.800Z" hostname="APC" time="0.001">
+  <properties/>
+  <testcase name="stores the literal byte in the target register()" classname="d5700.instructions.StoreInstructionTest" time="0.0"/>
+  <testcase name="advances the program counter by 2()" classname="d5700.instructions.StoreInstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

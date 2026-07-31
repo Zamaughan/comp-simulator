@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.ConvertToBase10InstructionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.779Z" hostname="APC" time="0.001">
+  <properties/>
+  <testcase name="splits a byte into hundreds, tens, and ones digits at A, A+1, A+2()" classname="d5700.instructions.ConvertToBase10InstructionTest" time="0.0"/>
+  <testcase name="handles the maximum byte value 255()" classname="d5700.instructions.ConvertToBase10InstructionTest" time="0.0"/>
+  <testcase name="handles single-digit values with leading zero digits()" classname="d5700.instructions.ConvertToBase10InstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

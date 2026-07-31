@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.ReadKeyboardInstructionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.793Z" hostname="APC" time="0.002">
+  <properties/>
+  <testcase name="empty input stores 0()" classname="d5700.instructions.ReadKeyboardInstructionTest" time="0.0"/>
+  <testcase name="parses two hex digits as one byte()" classname="d5700.instructions.ReadKeyboardInstructionTest" time="0.0"/>
+  <testcase name="ignores digits past the first two()" classname="d5700.instructions.ReadKeyboardInstructionTest" time="0.0"/>
+  <testcase name="parses a single hex digit()" classname="d5700.instructions.ReadKeyboardInstructionTest" time="0.001"/>
+  <testcase name="lowercase hex digits are accepted()" classname="d5700.instructions.ReadKeyboardInstructionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

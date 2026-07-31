@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.SubInstructionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.801Z" hostname="APC" time="0.001">
+  <properties/>
+  <testcase name="wraps around on underflow below 0()" classname="d5700.instructions.SubInstructionTest" time="0.0"/>
+  <testcase name="subtracts rY from rX into rZ()" classname="d5700.instructions.SubInstructionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

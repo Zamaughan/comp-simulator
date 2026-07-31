@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="d5700.instructions.InstructionFactoryTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-07-31T04:22:04.783Z" hostname="APC" time="0.007">
+  <properties/>
+  <testcase name="decodes DRAW (F) per the spec's F123 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes SWITCH_MEMORY (7000)()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes SUB (2) per the spec's 2010 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes READ (3) per the spec's 3700 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.001"/>
+  <testcase name="decodes WRITE (4) per the spec's 4300 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes SET_T (B) per the spec's B0A0 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes JUMP (5) per the spec's 51F2 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.001"/>
+  <testcase name="decodes STORE (0)()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes READ_KEYBOARD (6)()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes SKIP_EQUAL (8) per the spec's 8120 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.001"/>
+  <testcase name="decodes SET_A (A) per the spec's A255 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.001"/>
+  <testcase name="decodes CONVERT_TO_BASE_10 (D) per the spec's D200 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes ADD (1) per the spec's 1010 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.001"/>
+  <testcase name="decodes CONVERT_BYTE_TO_ASCII (E) per the spec's E010 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <testcase name="decodes READ_T (C) per the spec's C000 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.001"/>
+  <testcase name="decodes SKIP_NOT_EQUAL (9) per the spec's 9120 example()" classname="d5700.instructions.InstructionFactoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
